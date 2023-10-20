@@ -7,4 +7,4 @@ Tema realizata de:
 
 Tema este completa. Contine si scripturi pentru scor, insa metoda ce contine si collider-ul nu se apeleaza cand zidul este lovit si nu stim de ce.
 
-Demo-ul:
+Demo-ul: https://we.tl/t-RywXDpMpxz 
